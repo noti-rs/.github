@@ -1,12 +1,20 @@
 # :zap: Noti
 
-**Noti** is a lightweight desktop notification daemon for Wayland compositors. It offers a customizable and efficient notification experience, designed for modern Linux desktops.
+`Noti` is a simple yet powerful notification daemon, offering:
 
-## :star2: Features
-
-- **Native Wayland Support**: Seamlessly integrated with Wayland
-- **Highly Configurable**: Detailed customization options for appearance and behavior
-- **Per-App Styling**: Unique notification styles for different applications
+- **Native Wayland Support**: Built from the ground up for Wayland environments
+- **Highly-customizable**: Tailor your notifications to suit your preferences
+- **Per-App Styling**: Differentiate notifications with app-specific designs
 - **Modern Design**: Clean, minimalist approach to desktop notifications
 
 [Read more about **Noti**](https://github.com/noti-rs/noti.git)
+
+---
+
+<p align="center">
+  <img src="./noti.gif" alt="noti" style="border-radius: 20px;"/>
+</p>
+
+<p align="center">
+  <b>Noti doesn’t just deliver notifications; it gives you control.</b>
+</p>
