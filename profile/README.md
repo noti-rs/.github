@@ -12,7 +12,7 @@
 ---
 
 <p align="center">
-  <img width=400 height=400 src="./noti.gif" alt="noti" style="border-radius: 20px;"/>
+  <img width=200 height=200 src="./noti.gif" alt="noti" style="border-radius: 20px;"/>
 </p>
 
 <p align="center">
